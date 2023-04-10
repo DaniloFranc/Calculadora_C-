@@ -1,0 +1,11 @@
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\bin\Debug\Calculadora_teste.exe.config
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\bin\Debug\Calculadora_teste.exe
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\bin\Debug\Calculadora_teste.pdb
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.csproj.AssemblyReference.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.Properties.Resources.resources
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.csproj.GenerateResource.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.exe
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.pdb
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Calculadora_teste\obj\Debug\Calculadora_teste.Calculadora.resources
